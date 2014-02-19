@@ -9,7 +9,7 @@
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>test</servlet-name>
-		<url-pattern>/getCard</url-pattern>
+		<url-pattern>/game/*</url-pattern>
 	</servlet-mapping>
 
 	<display-name>Trump01_SB</display-name>
